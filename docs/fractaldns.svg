@@ -7,9 +7,9 @@
     </linearGradient>
   </defs>
   <g transform="rotate(30, 200, 200)">
-    <!-- Large hexagon -->
+    <!-- Large hexagon
     <polygon points="200,40 338.56,120 338.56,280 200,360 61.44,280 61.44,120" 
-             fill="black" stroke="black" stroke-width="16"/>
+             fill="black" stroke="black" stroke-width="16"/> -->
     
     <!-- Half-sized hexagon 1 (top) -->
     <polygon points="200,40 269.28,80 269.28,160 200,200 130.72,160 130.72,80" 
