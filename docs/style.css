@@ -598,13 +598,6 @@ footer {
   margin-bottom: 3rem;
 }
 
-.policy-wrap .last-updated {
-  color: var(--text-muted);
-  font-size: 0.875rem;
-  margin-top: -2rem;
-  margin-bottom: 3rem;
-}
-
 .policy-wrap h2 {
   font-size: 1.15rem;
   font-weight: 700;
